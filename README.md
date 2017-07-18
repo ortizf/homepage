@@ -1,4 +1,4 @@
-##This is my homepage
+## This is my homepage
 
 * It holds links to my github and linkedin
 * And it holds current information about myself, such as my resume, and some pictures
